@@ -28,4 +28,4 @@
 
 ## Summary
 
-### While temperature preferences obviously vary from person to person, the temperature range is still favorable for surfing and consumung ice cream.
+### While temperature preferences obviously vary from person to person, the temperature range is still favorable for surfing and consuming ice cream. Just from looking at temperature data in the middle of summer and the middle of winter for Oahu, it appears that the temperature stays relatively warm all year round. This conclusion helps us convince W. Avy that the surf and ice cream shop business would be successful due to favorable year round weather conditions. Temperature, however, is not the only factor in determining that the weather in Oahu is good enough year round to support our business. In order to provide W. Avy with more supporting exploratory analyis, we might want to perform a query that shows summary statistics for the precipation in Oahu for June and December. Additionally, we might want to query for 
