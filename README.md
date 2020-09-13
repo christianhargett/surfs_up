@@ -6,4 +6,8 @@
 
 ## Results
 
-### 
+### After querying temperature observation data from all weather stations in Oahu, we filtered for data in the month of June (across all years) and generated some summary statistics (pictured below):
+
+![](https://github.com/christianhargett/surfs_up/blob/master/June%20temps.png)
+
+### After looking at this information we can determine that the temperature data for Oahu in June is favorable for a surf and ice cream shop business. The average temperature in June is 75 degrees Fahrenheit, while the minimum temperature is 64 degrees. The maximum temperature in June is 85 degrees. While temperature preferences obviously vary from person to person, the temperature range is still favorable for surfing and consumung ice cream. 
